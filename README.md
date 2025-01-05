@@ -5,7 +5,7 @@
 
 ## Basic Details
 
-##### Name: B S Pranav
-##### College: The National Institute of Engineering, Mysore
-##### Email ID: mysorepranav04@gmail.com
-##### GitHub Profile: pranavbs18
+**Name**: B S Pranav
+**College**: The National Institute of Engineering, Mysore
+**Email ID**: mysorepranav04@gmail.com
+**GitHub Profile**: pranavbs18
