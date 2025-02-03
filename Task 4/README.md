@@ -1,4 +1,4 @@
-<details>
+
 <summary><b>Task 4:</b> Simulating and Viewing the RISC-V core instructions using Verilog netlist and testbench </summary>   
 <br>
 In this task, we will be observing output waveforms of RISC-V instructions by performing functional simulations using a verilog netlist .
@@ -119,4 +119,4 @@ The new PC value is = 10 + 15 = 25 (0x19)
 The SLL (Shift Left Logical) instruction shifts the value in a source register to the left by a specified number of bits, filling the vacated bits with zeros.
 
 ![Inst12-SLL](https://github.com/user-attachments/assets/a80def9a-4553-44bb-9c5e-31c85c8f5eb0)
-</details>
+
